@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm João Ricardo Criminácio 🤚</h1>
 
-<!--
-**JoaoCriminacio/JoaoCriminacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Informations
+ - 🌍 Location: Pato Branco, Paraná - Brazil.
+ - ☎️ Telephone: +55 (46) 99929-4709.
+ - 🧰 E-mail: joaoricardocriminacio@gmail.com.
 
-Here are some ideas to get you started:
+## Habilities
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20">
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20">
+ - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+<a href="[https://www.instagram.com/seu_usuario](https://www.instagram.com/joao_coffee/)"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"></a>
+<a href="www.linkedin.com/in/joao-ricardo-criminacio"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
