@@ -38,5 +38,5 @@
 
 <h1 align="center">Thank you for visiting my profile! 🍷🗿</h1>
 <div align="center">
-    <img src="https://media1.tenor.com/m/dI7PKF421EgAAAAd/thank-you-bow.gif" width="500" height="300"/>   
+    <img src="https://media1.giphy.com/media/pJ1ZE8aGTg3jG/giphy.webp?cid=790b761124qpb9s0sto54zzkabxxrop6h0kwvlz07hvwza1m&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="500" height="300"/>   
 </div>
