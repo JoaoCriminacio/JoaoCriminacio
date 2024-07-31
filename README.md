@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm João Ricardo Criminácio 👋</h1>
 
 ## Personal Informations
- - 🤔 Exploring new technologies and devoloping software solutions.
+ - 🤔 Exploring new technologies and developing software solutions.
  - 🎓 Studying Information System at Unimater.
  - 💼 Working as Tech Support at Limber Software.
  - 🌍 Pato Branco, Paraná - Brazil.
