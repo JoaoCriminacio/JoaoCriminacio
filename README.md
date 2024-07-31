@@ -13,4 +13,5 @@
 
 ## Connect With Me
 [![Gmail Badge](https://img.shields.io/badge/-joaoricardocriminacio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{joaoricardocriminacio@gmail.com})](mailto:{joaoricardocriminacio@gmail.com})
-[![Linkedin](https://img.shields.io/badge/-JoaoRicardoCriminacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
+[![Linkedin](https://img.shields.io/badge/-Joao_Ricardo_Criminacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
+[![Instagram](https://img.shields.io/badge/-Joao_Coffee-purple?style=flat-square&logo=Instagram&logoColor=white&link={https://www.instagram.com/joao_coffee/})]({https://www.instagram.com/joao_coffee/})
