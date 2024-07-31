@@ -36,7 +36,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/)](https://www.instagram.com/joao_coffee/)
 
-<h1 align="center">Thank you for visiting my profile! 🗿🍷</h1>
+<h1 align="center">Thank you for visiting my profile! 🍷🗿</h1>
 <div align="center">
-    <img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=500&h=300&crop=1" width="500" height="300"/>   
+    <img src="https://media3.giphy.com/media/QAsBwSjx9zVKoGp9nr/200w.gif?cid=6c09b9520fnuh8zjfslw9p3z8uy4v51xl16g3235iii9bghk&ep=v1_internal_gif_by_id&rid=200w.gif&ct=gw=500&h=300&crop=1" width="500" height="300"/>   
 </div>
