@@ -1,15 +1,22 @@
-<h1 align="center">Hi, I'm João Ricardo Criminácio 🤚</h1>
+<h1 align="center">Hi, I'm João Ricardo Criminácio 👋</h1>
 
 ## Personal Informations
- - 🌍 Location: Pato Branco, Paraná - Brazil.
- - ☎️ Telephone: +55 (46) 99929-4709.
- - 🧰 E-mail: joaoricardocriminacio@gmail.com.
+ - 🤔 Exploring new technologies and devoloping software solutions.
+ - 🎓 Studying Information System at Unimater.
+ - 💼 Working as Tech Support at Limber Software.
+ - 🌍 Pato Branco, Paraná - Brazil.
 
-## Habilities
- - <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20">
- - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="20">
- - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20">
+## Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 ## Connect With Me
-<a href="[https://www.instagram.com/seu_usuario](https://www.instagram.com/joao_coffee/)"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="20"></a>
-<a href="www.linkedin.com/in/joao-ricardo-criminacio"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaoricardocriminacio@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joao-ricardo-criminacio" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/joao_coffee/)" alt="Instagram"/></a>
+</p>
