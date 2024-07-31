@@ -1,17 +1,36 @@
-<h1 align="center">Hi, I'm João Ricardo Criminácio 👋</h1>
+<h1 align="center"><b>Hi, I'm João Ricardo Criminácio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## Personal Informations
- - 🤔 Exploring new technologies and developing software solutions.
+ - 🤓 Exploring new technologies and developing software solutions.
  - 🎓 Studying Information System at Unimater.
  - 💼 Working as Tech Support at Limber Software.
  - 🌍 Pato Branco, Paraná - Brazil.
 
-## Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+<!-- badges: https://github.com/Ileriayo/markdown-badges -->
+## Skills
+**Languages**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Front-End Development**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Softwares and Tools**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Connect With Me
-[![Gmail Badge](https://img.shields.io/badge/-joaoricardocriminacio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{joaoricardocriminacio@gmail.com})](mailto:{joaoricardocriminacio@gmail.com})
-[![Linkedin](https://img.shields.io/badge/-Joao_Ricardo_Criminacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
-[![Instagram](https://img.shields.io/badge/-Joao_Coffee-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/)](https://www.instagram.com/joao_coffee/)
+![Gmail](https://img.shields.io/badge/joaoricardocriminacio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/)](https://www.instagram.com/joao_coffee/)
