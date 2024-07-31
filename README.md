@@ -1,3 +1,4 @@
+<!-- templates ideas: [https://github.com/Ileriayo/markdown-badges](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates) -->
 <h1 align="center"><b>Hi, I'm João Ricardo Criminácio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## Personal Informations
@@ -31,6 +32,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Connect With Me
-![Gmail](https://img.shields.io/badge/joaoricardocriminacio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joaoricardocriminacio@gmail.com)](mailto:joaoricardocriminacio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/)](https://www.instagram.com/joao_coffee/)
