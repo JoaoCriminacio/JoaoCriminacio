@@ -12,11 +12,5 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 ## Connect With Me
-<p align="left">
-  <a href="joaoricardocriminacio@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaoricardocriminacio@gmail.com" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/joao-ricardo-criminacio" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joao-ricardo-criminacio" alt="LinkedIn"/></a>
-  <a href="www.instagram.com/joao_coffee/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/" alt="Instagram"/></a>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-joaoricardocriminacio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{joaoricardocriminacio@gmail.com})](mailto:{joaoricardocriminacio@gmail.com})
+[![Linkedin](https://img.shields.io/badge/-JoaoRicardoCriminacio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
