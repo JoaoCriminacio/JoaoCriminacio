@@ -40,7 +40,7 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joaoricardocriminacio@gmail.com)](mailto:joaoricardocriminacio@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/)](https://www.instagram.com/joao_coffee/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/)](https://www.instagram.com/joao.criminacio/)
 
 <h1 align="center">Thank you for visiting my profile! 🍷🗿</h1>
 <div align="center">
