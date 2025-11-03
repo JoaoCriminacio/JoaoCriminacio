@@ -55,7 +55,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-ricardo-criminacio)](https://www.linkedin.com/in/joao-ricardo-criminacio)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/joao_coffee/)](https://www.instagram.com/joao.criminacio/)
 
-<h1 align="center">Thank you for visiting my profile! 🍷🗿</h1>
 <div align="center">
-    <img src="https://media1.giphy.com/media/pJ1ZE8aGTg3jG/giphy.webp?cid=790b761124qpb9s0sto54zzkabxxrop6h0kwvlz07hvwza1m&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="500" height="300"/>   
+    <img src="https://github.com/user-attachments/assets/dcf4b6aa-c9a1-4d85-9203-f193198ba824"/>   
 </div>
