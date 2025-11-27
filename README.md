@@ -1,6 +1,6 @@
 <!-- templates ideas: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates -->
 <!-- badges: https://github.com/Ileriayo/markdown-badges -->
-<h1 align="center"><b>Hi, I'm João Ricardo Criminácio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm João Ricardo Criminacio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## Personal Information
  - 🤓 Passionate about exploring new technologies and developing software solutions.
