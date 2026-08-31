@@ -3,9 +3,9 @@
 <h1 align="center"><b>Hi, I'm João Ricardo Criminacio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## Personal Information
- - 🤓 Passionate about exploring new technologies and developing software solutions.
+ - ☕ Passionate about exploring new technologies and developing software solutions.
  - 🎓 Studying Information Systems at Unimater.
- - 💼 Working as a Web Developer at Limber Software.
+ - 💼 Working as a Full Stack Developer at Limber Software.
  - 🌍 Pato Branco, Paraná - Brazil.
 
 ## Skills
